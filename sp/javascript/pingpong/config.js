@@ -4,9 +4,9 @@ module.exports = {
         host_1: 'wss://154.12.245.142:30000',
         host: 'wss://103.177.249.118:30050',
         credential: {
-            accesskey: 'SAMUEL',
-            password: '000000',
-            address: 'samuel.maya.4da',
+            accesskey: 'ACSKEY',
+            password: 'PSSWRD',
+            address: 'name.maya.4da',
             context: {}
         },
         peers: {
