@@ -1,5 +1,8 @@
 This `README.md` is tailored for the Node.js implementation of the **TDPnet** protocol. It emphasizes the event-driven nature of the library and how to use the `StandardSession` to interact with the network.
 
+Usage:
+node index.js
+
 ---
 
 # TDPnet Node.js API
