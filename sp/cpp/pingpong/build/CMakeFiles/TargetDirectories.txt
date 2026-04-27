@@ -1,3 +1,0 @@
-/home/samuel/repo/maya/sp/cpp/pingpong/build/CMakeFiles/pingpong.dir
-/home/samuel/repo/maya/sp/cpp/pingpong/build/CMakeFiles/edit_cache.dir
-/home/samuel/repo/maya/sp/cpp/pingpong/build/CMakeFiles/rebuild_cache.dir
